@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "SecureNSUserDefaults-WS"
+  s.name         = "SecureNSUserDefaultsWS"
   s.version      = "1.2"
   s.summary      = "Some wrapper"
   s.homepage     = "https://github.com/willswinson/SecureNSUserDefaults"
