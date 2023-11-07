@@ -1,2 +1,2 @@
 platform :ios, '5.0'
-pod 'CocoaSecurity', '~> 1.2.4'
+pod 'CocoaSecurity', :git => 'https://github.com/willswinson/CocoaSecurity-WS.git'
