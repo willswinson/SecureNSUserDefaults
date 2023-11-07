@@ -6,6 +6,6 @@ Pod::Spec.new do |s|
   s.license      = 'zlib'
   s.author       = "William Swinson"
   s.source       = { :git => "https://github.com/willswinson/SecureNSUserDefaults.git", :tag => "1.2" }
-  s.source_files = 'SecureNSUserDefaults,SecureNSUserDefaults/SecureNSUserDefaults'
+  s.source_files = 'SecureNSUserDefaults/SecureNSUserDefaults'
   s.requires_arc = true
 end
